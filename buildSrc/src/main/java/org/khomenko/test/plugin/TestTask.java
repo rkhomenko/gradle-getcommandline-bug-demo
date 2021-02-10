@@ -1,6 +1,5 @@
 package org.khomenko.test.plugin;
 
-import org.apache.tools.ant.taskdefs.Java;
 import org.gradle.api.DefaultTask;
 import org.gradle.api.tasks.JavaExec;
 import org.gradle.api.tasks.TaskAction;
