@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="/mnt/data/files/source/gradle-getcommandline-bug-demo" />
+            <option value="/mnt/data/files/source/gradle-getcommandline-bug-demo/buildSrc" />
           </set>
         </option>
       </GradleProjectSettings>
