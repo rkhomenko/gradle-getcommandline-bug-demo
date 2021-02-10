@@ -1,0 +1,2 @@
+org/khomenko/gradle/bug/demo/App.java
+ org.khomenko.gradle.bug.demo.App
